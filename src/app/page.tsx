@@ -213,7 +213,7 @@ export default function Page() {
                 >
                   shameera.carrim17@mail.com
                 </a>{" "}
-                and I'll respond whenever I can. I will ignore all soliciting.
+                {/* and I'll respond whenever I can. I will ignore all soliciting. */}
               </p>
             </div>
           </BlurFade>

@@ -59,8 +59,10 @@ extensively carry out tasks start to finish.`,
       logoUrl: "/innovativee.jpg",
       start: "March 2023",
       end: "Present",
-      description:
-        "I have experience working on a Telemedicine platform where I utilized a tech stack that included React.js, C#, MSSQL Server, Context API, Syncfusion, and Material-UI. My responsibilities involved integrating internationalization (i18n) to support multiple languages, building REST APIs using C#, and developing React components based on the Atomic design system. Additionally, I mentored interns and provided debugging and bug-fixing support. In another project, I contributed to an Auction Web Application, an auction platform designed to facilitate auction activities. This project used React.js, NodeJS, ExpressJS, MySQL, Context API, and Material-UI. My role included developing data filters and data display card components, improving form activities with React-Hook-Form in conjunction with Yup validator, and creating REST APIs to enable communication between frontend activities and the database. I also handled debugging and bug fixing throughout the development process.",
+      description: [
+        "I have experience working on a Telemedicine platform where I utilized a tech stack that included React.js, C#, MSSQL Server, Context API, Syncfusion, and Material-UI. My responsibilities involved integrating internationalization (i18n) to support multiple languages, building REST APIs using C#, and developing React components based on the Atomic design system. Additionally, I mentored interns and provided debugging and bug-fixing support.",
+        "In another project, I contributed to an Auction Web Application, an auction platform designed to facilitate auction activities. This project used React.js, NodeJS, ExpressJS, MySQL, Context API, and Material-UI. My role included developing data filters and data display card components, improving form activities with React-Hook-Form in conjunction with Yup validator, and creating REST APIs to enable communication between frontend activities and the database. I also handled debugging and bug fixing throughout the development process.",
+      ],
     },
     {
       company: "CabbageApps",
@@ -71,18 +73,11 @@ extensively carry out tasks start to finish.`,
       logoUrl: "/cabbageteam.png",
       start: "August 2021",
       end: "January 2023",
-      description: `"I have worked on a Core Banking System - Fintech project, an in-house platform developed to standardize and optimize fintech operations.\n\
-The tech stack for this project included React.js, TypeScript, Context API, Redux, AntD, Tailwind, and Sass.\n\
-I contributed to subsystems such as CASA, ATM, Lending, Term Deposit, and Cash & Teller.\n\
-My responsibilities encompassed debugging and fixing bugs, developing reusable components based on atomic design patterns, and creating user interfaces to facilitate CRUD operations.\n\n\
-Additionally, I developed an automated QA Tool as an in-house project using the MERN Stack.\n\
-For the QA Tool automation algorithm, I used JavaScript and TypeScript to write test cases and employed permutation logic to generate test cases.\n\
-I also developed a mechanism to create test cases based on possible user-selected components and data sets.\n\
-In the QA Tool web application, I utilized React, TypeScript, Redux, AntD, HTML/CSS, Tailwind, and SASS to develop reusable components based on atomic design patterns and to create feature components for performing QA tasks.\n\n\
-Furthermore, I worked on another aspect of the Core Banking System - Fintech project, focusing on the Collateral / CASA subsystems.\n\
-Here, I developed features for processing multiple manual entries and bulk file uploads, as well as user interfaces to support CRUD operations."
-`,
-      // "I have worked on a **Core Banking System - Fintech** project, an in-house platform developed to standardize and optimize fintech operations.\nThe tech stack for this project included React.js, TypeScript, Context API, Redux, AntD, Tailwind, and Sass.\nI contributed to subsystems such as CASA, ATM, Lending, Term Deposit, and Cash & Teller.\nMy responsibilities encompassed debugging and fixing bugs, developing reusable components based on atomic design patterns, and creating user interfaces to facilitate CRUD operations.\nAdditionally, I developed an **automated QA Tool** as an in-house project using the MERN Stack.\nFor the QA Tool automation algorithm, I used JavaScript and TypeScript to write test cases and employed permutation logic to generate test cases.\nI also developed a mechanism to create test cases based on possible user-selected components and data sets.\nIn the QA Tool web application, I utilized React, TypeScript, Redux, AntD, HTML/CSS, Tailwind, and SASS to develop reusable components based on atomic design patterns and to create feature components for performing QA tasks.\nFurthermore, I worked on another aspect of the **Core Banking System - Fintech** project, focusing on the Collateral / CASA subsystems.\nHere, I developed features for processing multiple manual entries and bulk file uploads, as well as user interfaces to support CRUD operations.",
+      description: [
+        "I have worked on a Core Banking System - Fintech project, an in-house platform developed to standardize and optimize fintech operations. The tech stack for this project included React.js, TypeScript, Context API, Redux, AntD, Tailwind, and Sass. I contributed to subsystems such as CASA, ATM, Lending, Term Deposit, and Cash & Teller. My responsibilities encompassed debugging and fixing bugs, developing reusable components based on atomic design patterns, and creating user interfaces to facilitate CRUD operations.",
+        "Additionally, I developed an automated QA Tool as an in-house project using the MERN Stack. For the QA Tool automation algorithm, I used JavaScript and TypeScript to write test cases and employed permutation logic to generate test cases. I also developed a mechanism to create test cases based on possible user-selected components and data sets. In the QA Tool web application, I utilized React, TypeScript, Redux, AntD, HTML/CSS, Tailwind, and SASS to develop reusable components based on atomic design patterns and to create feature components for performing QA tasks.",
+        "Furthermore, I worked on another aspect of the Core Banking System - Fintech project, focusing on the Collateral / CASA subsystems. Here, I developed features for processing multiple manual entries and bulk file uploads, as well as user interfaces to support CRUD operations.",
+      ],
     },
   ],
   education: [
