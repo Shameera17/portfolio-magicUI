@@ -13,7 +13,16 @@ web applications’ features proactively. Proven ability to leverage full-stack
 knowledge and work as a hardworking, problem solving individual and
 extensively carry out tasks start to finish.`,
   avatarUrl: "/me.jpg",
-  skills: ["React", "Next.js", "Typescript", "Node.js", "C# Web Api"],
+  skills: [
+    "React",
+    "Next.js",
+    "Typescript",
+    "Node.js",
+    "JavaScript",
+    "SQL",
+    "Dot net web API with C#",
+    "MongoDB",
+  ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     {
