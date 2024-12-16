@@ -146,7 +146,7 @@ extensively carry out tasks start to finish.`,
   projects: [
     {
       title: "Task management",
-      href: "https://task-management-one-lake.vercel.app/tasks",
+      href: "https://task-management-v2-five.vercel.app/tasks",
       dates: "November 2024",
       active: true,
       description: `The Task Management Drag-and-Drop feature, built with Next.js, allows users to easily organize and prioritize tasks by dragging them between columns. It enables seamless task movement through stages like "To Do," "In Progress," and "Completed." The feature is responsive, offering smooth transitions across devices.`,
@@ -154,12 +154,12 @@ extensively carry out tasks start to finish.`,
       links: [
         {
           type: "Website",
-          href: "https://task-management-one-lake.vercel.app/tasks",
+          href: "https://task-management-v2-five.vercel.app/tasks",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/Shameera17/task-management",
+          href: "https://github.com/Shameera17/task-management-v2",
           icon: <Icons.github className="size-3" />,
         },
       ],
