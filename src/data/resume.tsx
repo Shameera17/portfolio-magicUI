@@ -196,7 +196,7 @@ extensively carry out tasks start to finish.`,
       video: "",
     },
     {
-      title: "Learning Grid Layout",
+      title: "Grid Layout",
       href: "https://qgf6f9.csb.app/",
       dates: "-",
       active: true,
