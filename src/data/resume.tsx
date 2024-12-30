@@ -195,6 +195,29 @@ extensively carry out tasks start to finish.`,
       image: "/user-port.png",
       video: "",
     },
+    {
+      title: "Learning Grid Layout",
+      href: "https://qgf6f9.csb.app/",
+      dates: "-",
+      active: true,
+      description:
+        "Exploring responsive grid layouts with CSS Grid and Flexbox. ",
+      technologies: ["React.js", "HTML/CSS", "Javascript"],
+      links: [
+        {
+          type: "Website",
+          href: "https://qgf6f9.csb.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://codesandbox.io/p/sandbox/learning-responsiveness-qgf6f9",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/responsive.png",
+      video: "",
+    },
   ],
   hackathons: [
     {
