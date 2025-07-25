@@ -62,6 +62,20 @@ extensively carry out tasks start to finish.`,
 
   work: [
     {
+      company: "D3 Maven (PVT) ltd",
+      href: "https://innovative-e.com/",
+      badges: [],
+      location: "On-site",
+      title: "Software Engineer",
+      logoUrl: "/d3_maven_logo.jpeg",
+      start: "May 2024",
+      end: "Present",
+      description: [
+        "Developed and maintained a Gym Facility Management System to onboard brands and their facilities, manage facility memberships, bookings, and resource allocation.",
+        "Built features for a Therapy Management System including therapist scheduling, client tracking, and session notes.",
+      ],
+    },
+    {
       company: "Innovative-e (PVT) ltd",
       href: "https://innovative-e.com/",
       badges: [],
@@ -69,7 +83,7 @@ extensively carry out tasks start to finish.`,
       title: "Software Engineer",
       logoUrl: "/innovativee.jpg",
       start: "May 2024",
-      end: "Present",
+      end: "September 2024",
       description: [
         "In the Telemedicine Platform project, I worked with a tech stack including React.js, C#, MSSQL Server, Context API, Syncfusion, and Material-UI. My responsibilities included implementing full-stack features with seamless frontend-backend integration, collaborating effectively with the team to address feedback and concerns, and performing demos to leads to showcase progress and gather insights. Additionally, I mentored interns, helping them navigate challenges, and shared knowledge on new technologies with the team. I also played a key role in negotiating requirements and ensuring alignment between the development process, Business Analysts (BA), and Quality Assurance (QA) teams to ensure successful project delivery.",
       ],
