@@ -68,7 +68,7 @@ extensively carry out tasks start to finish.`,
       location: "On-site",
       title: "Software Engineer",
       logoUrl: "/d3_maven_logo.jpeg",
-      start: "May 2024",
+      start: "January 2025",
       end: "Present",
       description: [
         "Developed and maintained a Gym Facility Management System to onboard brands and their facilities, manage facility memberships, bookings, and resource allocation.",
